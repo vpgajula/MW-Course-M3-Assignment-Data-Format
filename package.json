@@ -1,0 +1,23 @@
+{
+  "name": "mw-course-m3-assignment-data-format",
+  "version": "1.0.0",
+  "description": "MW-Course-M3-Assignment-Data Format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpgajula/MW-Course-M3-Assignment-Data-Format.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpgajula/MW-Course-M3-Assignment-Data-Format/issues"
+  },
+  "homepage": "https://github.com/vpgajula/MW-Course-M3-Assignment-Data-Format#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
